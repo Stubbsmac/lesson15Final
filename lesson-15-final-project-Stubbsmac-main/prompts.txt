@@ -1,0 +1,7 @@
+I need 20 lines of randomized info to plug into an SQL query, with this as the code, alphabeticalized. 
+INSERT INTO fp_attendees 
+(firstName, lastName, email, phone, address, registrationDate, company, jobTitle, ticketType)
+
+I need 8 lines of randomize info to plug into an SQL query, with this as the code, alphabeticalized.
+INSERT INTO fp_sessions 
+(title, description, startTime, endTime, roomID, topicID)
